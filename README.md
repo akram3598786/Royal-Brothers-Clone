@@ -1,4 +1,3 @@
-Netlify Deployes Link - https://royal-brothers-clone.netlify.app/
 
 ## Problem Statement
 <br>
