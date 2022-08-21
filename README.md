@@ -1,4 +1,4 @@
-Netlify Deployes Link - [Royal Brothers](https://elaborate-rabanadas-66d54a.netlify.app)
+Netlify Deployes Link - https://royal-brothers-clone.netlify.app/
 
 ## Problem Statement
 <br>
