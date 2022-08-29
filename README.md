@@ -8,11 +8,6 @@ Our Problem statement is to build a pixel-perfect clone of the Royal Brothers We
 
 Since I'm pursuing a Full Stack Web Development course at Masai School I was given a project to clone a bike rental and e-commerce website Royal Brothers.  I was given a team of three members including me and the task was to clone the pixel-perfect clone of the website. Let's look at how we designed it 👇
 
-
-## Home-Page
-![ffeKuAHn8](https://user-images.githubusercontent.com/107247913/177038413-9ca36ba4-412a-4c35-9174-2bb2bdfea339.png)
-
-
 ## Tech Stacks
 
 <ul>
@@ -22,7 +17,8 @@ Since I'm pursuing a Full Stack Web Development course at Masai School I was giv
 <li>Local Storage -Web API</li>
 <li>Git</li>
 
-## Idea
+## Home-Page
+![ffeKuAHn8](https://user-images.githubusercontent.com/107247913/177038413-9ca36ba4-412a-4c35-9174-2bb2bdfea339.png)
 
 <br>
 
